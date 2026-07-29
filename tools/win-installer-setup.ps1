@@ -101,6 +101,11 @@ if (!(Test-Path innosetup-langs)) {
 	Invoke-WebRequest https://raw.github.com/jrsoftware/issrc/is-6_7_3/Files/Languages/Unofficial/ChineseTraditional.isl -OutFile innosetup-langs/ChineseTraditional.isl -UseBasicParsing
 }
 
+# wxWidgets localization (wxstd.mo)
+# Downloads and compiles wxWidgets locale files into src/mo/wxstd-*.mo
+& "$SourceRoot\tools\fetch_wxstd.ps1" -SourceRoot $SourceRoot
+if(!$?) { Exit $LASTEXITCODE }
+
 # Aegisub localization
 Set-Location $BuildRoot
 meson compile aegisub-gmo

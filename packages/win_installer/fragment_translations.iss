@@ -1,4 +1,4 @@
-﻿; This file declares everything related to installable translations of Aegisub
+; This file declares everything related to installable translations of Aegisub
 
 [Files]
 ; Aegisub localization
@@ -37,12 +37,13 @@ Source: {#BUILD_ROOT}\po\zh_TW\LC_MESSAGES\aegisub.mo;       DestDir: {app}\loca
 #endif
 ; END ENABLE_TRANSLATIONS
 
-;; TODO: rm those lines
-;;  xref: [Update and review translations · Issue #132 · TypesettingTools/Aegisub](https://github.com/TypesettingTools/Aegisub/issues/132)
+; wxWidgets locale files are compiled by tools/fetch_wxstd.ps1 from the
+; wxWidgets GitHub repository (branch 3.2) and placed in src/mo/.
+; xref: https://github.com/TypesettingTools/Aegisub/issues/379
 #ifdef ENABLE_WX_TRANSLATIONS
-; wxWidgets localization (commented out ones are out of date; some don't have wxstd.mo)
+; wxWidgets localization
 Source: src\mo\wxstd-ar.mo;      DestDir: {app}\locale\ar;    DestName: wxstd.mo;   Flags: ignoreversion; Components: translations
-; Missing wxstd for Bulgarian
+; No wxstd for Belarusian or Bulgarian
 Source: src\mo\wxstd-ca.mo;      DestDir: {app}\locale\ca;    DestName: wxstd.mo;   Flags: ignoreversion; Components: translations
 Source: src\mo\wxstd-cs.mo;      DestDir: {app}\locale\cs;    DestName: wxstd.mo;   Flags: ignoreversion; Components: translations
 Source: src\mo\wxstd-da.mo;      DestDir: {app}\locale\da;    DestName: wxstd.mo;   Flags: ignoreversion; Components: translations
@@ -50,8 +51,7 @@ Source: src\mo\wxstd-de.mo;      DestDir: {app}\locale\de;    DestName: wxstd.mo
 Source: src\mo\wxstd-el.mo;      DestDir: {app}\locale\el;    DestName: wxstd.mo;   Flags: ignoreversion; Components: translations
 Source: src\mo\wxstd-es.mo;      DestDir: {app}\locale\es;    DestName: wxstd.mo;   Flags: ignoreversion; Components: translations
 Source: src\mo\wxstd-eu.mo;      DestDir: {app}\locale\eu;    DestName: wxstd.mo;   Flags: ignoreversion; Components: translations
-; Farsi wxstd missing
-;Source: src\mo\wxstd-fa.mo;     DestDir: {app}\locale\fa;    DestName: wxstd.mo;   Flags: ignoreversion; Components: translations
+Source: src\mo\wxstd-fa.mo;      DestDir: {app}\locale\fa;    DestName: wxstd.mo;   Flags: ignoreversion; Components: translations
 Source: src\mo\wxstd-fi.mo;      DestDir: {app}\locale\fi;    DestName: wxstd.mo;   Flags: ignoreversion; Components: translations
 Source: src\mo\wxstd-fr.mo;      DestDir: {app}\locale\fr_FR; DestName: wxstd.mo;   Flags: ignoreversion; Components: translations
 Source: src\mo\wxstd-gl_ES.mo;   DestDir: {app}\locale\gl;    DestName: wxstd.mo;   Flags: ignoreversion; Components: translations
@@ -60,12 +60,15 @@ Source: src\mo\wxstd-id.mo;      DestDir: {app}\locale\id;    DestName: wxstd.mo
 Source: src\mo\wxstd-it.mo;      DestDir: {app}\locale\it;    DestName: wxstd.mo;   Flags: ignoreversion; Components: translations
 Source: src\mo\wxstd-ja.mo;      DestDir: {app}\locale\ja;    DestName: wxstd.mo;   Flags: ignoreversion; Components: translations
 Source: src\mo\wxstd-ko_KR.mo;   DestDir: {app}\locale\ko;    DestName: wxstd.mo;   Flags: ignoreversion; Components: translations
+Source: src\mo\wxstd-lt.mo;      DestDir: {app}\locale\lt;    DestName: wxstd.mo;   Flags: ignoreversion; Components: translations
 Source: src\mo\wxstd-nl.mo;      DestDir: {app}\locale\nl;    DestName: wxstd.mo;   Flags: ignoreversion; Components: translations
 Source: src\mo\wxstd-pl.mo;      DestDir: {app}\locale\pl;    DestName: wxstd.mo;   Flags: ignoreversion; Components: translations
 Source: src\mo\wxstd-pt_BR.mo;   DestDir: {app}\locale\pt_BR; DestName: wxstd.mo;   Flags: ignoreversion; Components: translations
 Source: src\mo\wxstd-pt.mo;      DestDir: {app}\locale\pt_PT; DestName: wxstd.mo;   Flags: ignoreversion; Components: translations
 Source: src\mo\wxstd-ru.mo;      DestDir: {app}\locale\ru;    DestName: wxstd.mo;   Flags: ignoreversion; Components: translations
-; Missing wxstd for Serbian
+; No wxstd for Serbian@latin; sr_RS uses the Cyrillic wxWidgets translation
+Source: src\mo\wxstd-sr_RS.mo;   DestDir: {app}\locale\sr_RS; DestName: wxstd.mo;   Flags: ignoreversion; Components: translations
+Source: src\mo\wxstd-tr.mo;      DestDir: {app}\locale\tr;    DestName: wxstd.mo;   Flags: ignoreversion; Components: translations
 Source: src\mo\wxstd-uk_UA.mo;   DestDir: {app}\locale\uk_UA; DestName: wxstd.mo;   Flags: ignoreversion; Components: translations
 Source: src\mo\wxstd-vi.mo;      DestDir: {app}\locale\vi;    DestName: wxstd.mo;   Flags: ignoreversion; Components: translations
 Source: src\mo\wxstd-zh_CN.mo;   DestDir: {app}\locale\zh_CN; DestName: wxstd.mo;   Flags: ignoreversion; Components: translations
