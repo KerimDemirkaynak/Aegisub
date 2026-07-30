@@ -104,25 +104,25 @@
   <path
      d="M 16.5,25.9 L 9,40.3 C 8.1,42.1 12.3,43.9 16.5,43.9 C 20.7,43.9 24.9,42.1 24,40.3 L 16.5,25.9 z"
      id="path2426"
-     style="fill:url(#radialGradient2430);stroke:#000000;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:url(#radialGradient2430);stroke:#1a45c8;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round" />
   <path
      d="M 22.5,22.6 C 22.5,25.9 19.8,28.6 16.5,28.6 C 13.2,28.6 10.5,25.9 10.5,22.6 C 10.5,19.3 13.2,16.6 16.5,16.6 C 19.8,16.6 22.5,19.3 22.5,22.6 z"
      id="path2428"
-     style="fill:url(#radialGradient2432);stroke:#000000;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:url(#radialGradient2432);stroke:#1a45c8;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round" />
   <path
      d="M 28.5,25.45 L 18.5,44.65 C 17.3,47.05 22.9,49.45 28.5,49.45 C 34.1,49.45 39.7,47.05 38.5,44.65 L 28.5,25.45 z"
      id="path2414"
-     style="fill:url(#radialGradient2422);stroke:#000000;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:url(#radialGradient2422);stroke:#1a45c8;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round" />
   <path
      d="M 36.5,21.05 C 36.5,25.45 32.9,29.05 28.5,29.05 C 24.1,29.05 20.5,25.45 20.5,21.05 C 20.5,16.65 24.1,13.05 28.5,13.05 C 32.9,13.05 36.5,16.65 36.5,21.05 z"
      id="path2416"
-     style="fill:url(#radialGradient2424);stroke:#000000;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:url(#radialGradient2424);stroke:#1a45c8;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round" />
   <path
      d="M 42.5,25 L 30,49 C 28.5,52 35.5,55 42.5,55 C 49.5,55 56.5,52 55,49 L 42.5,25 z"
      id="path2393"
-     style="fill:url(#radialGradient2458);stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:url(#radialGradient2458);stroke:#1a45c8;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
   <path
      d="M 52.5,19.5 C 52.5,25 48,29.5 42.5,29.5 C 37,29.5 32.5,25 32.5,19.5 C 32.5,14 37,9.5 42.5,9.5 C 48,9.5 52.5,14 52.5,19.5 z"
      id="path2384"
-     style="fill:url(#radialGradient2456);stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:url(#radialGradient2456);stroke:#1a45c8;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
 </svg>

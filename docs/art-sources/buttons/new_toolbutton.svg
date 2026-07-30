@@ -12,9 +12,9 @@
   <path
      d="M 10,4 L 40,4 L 54,18 L 54,60 L 10,60 L 10,4 z"
      id="rect2392"
-     style="fill:#ffffff;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:#ffffff;stroke:#1a45c8;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
   <path
      d="M 54,18 L 40,18 L 40,4"
      id="rect3182"
-     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:none;stroke:#1a45c8;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
 </svg>

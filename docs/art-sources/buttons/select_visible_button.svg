@@ -12,11 +12,11 @@
   <path
      d="M 4.5,15 L 4.5,39 L 59.5,39 L 59.5,15 L 4.5,15 z M 8.5,19 L 55.5,19 L 55.5,35 L 8.5,35 L 8.5,19 z"
      id="path3279"
-     style="fill:#ff0000;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:#ff5252;stroke:#1a45c8;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
   <path
      d="M 52,6 L 52,58 L 12,58 L 12,6 L 52,6 z"
      id="path3170"
-     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:#1a45c8;stroke:#1a45c8;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
   <path
      d="M 14.5,8.5 L 49.5,8.5 L 49.5,55.5 L 14.5,55.5 L 14.5,8.5 z"
      id="rect2407"
@@ -24,9 +24,9 @@
   <path
      d="M 13,17 L 51,17 L 51,37 L 13,37 L 13,17 z"
      id="rect3192"
-     style="fill:#ffff00;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:#ffff00;stroke:#1a45c8;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" />
   <path
      d="M 28,8.5 L 28,57 L 28,8.5 z M 13,47 L 50,47 L 13,47 z M 13,27 L 50,27 L 13,27 z"
      id="path3186"
-     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:none;stroke:#1a45c8;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" />
 </svg>

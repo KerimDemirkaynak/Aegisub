@@ -16,7 +16,7 @@
   <path
      d="M 23.5,20 L 23.5,24 C 25.5,24 28,24.5 28,22 C 28,19.5 25.5,20 23.5,20 z M 23.5,27 L 23.5,31.5 C 26,31.5 29,32 29,29.5 C 29,26.5 26,27 23.5,27 z M 25,17 C 30.5,17 32.5,21.5 29,25 C 33.5,27 31.5,34 27,34 L 21,34 L 21,17 L 25,17 z"
      id="text3160"
-     style="fill:#d40000;stroke:#d40000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4" />
+     style="fill:#ff5252;stroke:#ff5252;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4" />
   <path
      d="M 44,5 L 43,7.5 C 30,3.5 30,21.5 43,17.5 L 44,20 C 26,26 26,-1 44,5 z"
      id="text3164"
@@ -24,5 +24,5 @@
   <path
      d="M 53.5,14 L 28,47 L 18.5,38 C 15.5,35 11,39 13.5,42 L 25.5,58 C 27,60 29,60 30.5,58 L 58.5,17.5 C 61,14 56,10.5 53.5,14 z"
      id="path2447"
-     style="fill:#2a7fff;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:#2a7fff;stroke:#1a45c8;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
 </svg>

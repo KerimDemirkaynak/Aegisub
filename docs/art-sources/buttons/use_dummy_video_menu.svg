@@ -56,9 +56,9 @@
   <path
      d="M 44,10 L 52,10 L 52,40 L 44,40 L 44,10 z"
      id="path2423"
-     style="fill:#ff0000;stroke:none" />
+     style="fill:#ff5252;stroke:none" />
   <path
      d="M 8,10 L 56,10 C 58,10 60,12 60,14 L 60,50 C 60,52 58,54 56,54 L 8,54 C 6,54 4,52 4,50 L 4,14 C 4,12 6,10 8,10 z"
      id="rect2433"
-     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:none;stroke:#1a45c8;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
 </svg>

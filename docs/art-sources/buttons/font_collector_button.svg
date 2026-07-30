@@ -12,11 +12,11 @@
   <path
      d="M 6,6 L 32,6 L 32,42 L 6,42 L 6,6 z"
      id="path3161"
-     style="fill:#ffffff;stroke:#002255;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:#ffffff;stroke:#1a45c8;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
   <path
      d="M 12,12 L 38,12 L 38,48 L 12,48 L 12,12 z"
      id="rect2382"
-     style="fill:#ffffff;stroke:#003380;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:#ffffff;stroke:#1a45c8;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
   <path
      d="M 18,18 L 44,18 L 44,54 L 18,54 L 18,18 z"
      id="path3165"
@@ -28,7 +28,7 @@
   <path
      d="M 44,33 L 44,36.5 C 45.932,36.5 47.5,38.068 47.5,40 C 47.5,41.932 45.932,43.5 44,43.5 C 42.413,43.5 41.084713,42.448677 40.65625,41 L 37.09375,41 C 37.581309,44.388751 40.476998,47 44,47 C 47.173187,47 49.861108,44.896212 50.71875,42 L 60,42 L 60,38 L 50.71875,38 C 49.861108,35.103788 47.173187,33 44,33 z"
      id="path3192"
-     style="fill:#999999;stroke:#333333;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round" />
+     style="fill:#999999;stroke:#1a45c8;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round" />
   <path
      d="M 44,32 L 44,38"
      id="path3203"

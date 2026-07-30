@@ -35,25 +35,25 @@
   <path
      d="M 6,6 L 58,6 L 58,14 L 6,14 L 6,6 z"
      id="rect2383"
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:none;stroke:#1a45c8;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
   <path
      d="M 34,6 L 34,14"
      id="path3293"
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:none;stroke:#1a45c8;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
   <path
      d="M 6,6 L 20,6 L 20,14 L 6,14 L 6,6 z"
      id="rect3167"
-     style="fill:#2aff2a;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:#2aff2a;stroke:#1a45c8;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
   <path
      d="M 13,28 L 20,21 L 15,21 L 15,14 L 11,14 L 11,21 L 6,21 L 13,28 z"
      id="path3170"
-     style="fill:#00ccff;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:#00ccff;stroke:#1a45c8;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
   <path
      d="M 12,28 L 40,28 C 43.5,28 46,30.5 46,34 L 46,52 C 46,55.5 43.5,58 40,58 L 12,58 C 8.5,58 6,55.5 6,52 L 6,34 C 6,30.5 8.5,28 12,28 z"
      id="rect2380"
-     style="fill:url(#radialGradient2431);stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:url(#radialGradient2431);stroke:#1a45c8;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
   <path
      d="M 38,43 L 29,34 L 29,40 L 14,40 L 14,46 L 29,46 L 29,52 L 38,43 z"
      id="path3251"
-     style="fill:#00ccff;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:#00ccff;stroke:#1a45c8;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
 </svg>

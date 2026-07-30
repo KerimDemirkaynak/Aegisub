@@ -35,17 +35,17 @@
   <path
      d="M 6,50 L 58,50 L 58,58 L 6,58 L 6,50 z"
      id="rect2383"
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:none;stroke:#1a45c8;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
   <path
      d="M 20,50 L 34,50 L 34,58 L 20,58 L 20,50 z"
      id="rect3167"
-     style="fill:#ff0000;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:#ff5252;stroke:#1a45c8;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
   <path
      d="M 12,6 L 40,6 C 43.5,6 46,8.5 46,12 L 46,30 C 46,33.5 43.5,36 40,36 L 12,36 C 8.5,36 6,33.5 6,30 L 6,12 C 6,8.5 8.5,6 12,6 z"
      id="rect2380"
-     style="fill:url(#radialGradient2431);stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:url(#radialGradient2431);stroke:#1a45c8;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
   <path
      d="M 27,50 L 34,43 L 29,43 L 29,36 L 25,36 L 25,43 L 20,43 L 27,50 z"
      id="path3170"
-     style="fill:#00ccff;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:#00ccff;stroke:#1a45c8;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
 </svg>

@@ -35,11 +35,11 @@
   <path
      d="M 8,10 L 56,10 C 58,10 60,12 60,14 L 60,50 C 60,52 58,54 56,54 L 8,54 C 6,54 4,52 4,50 L 4,14 C 4,12 6,10 8,10 z"
      id="rect2433"
-     style="fill:url(#radialGradient2431);stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:url(#radialGradient2431);stroke:#1a45c8;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
   <path
      d="M 48,32 C 48,53 16,53 16,32 C 16,11 48,11 48,32 z"
      id="path2546"
-     style="fill:#0000d4;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:#0000d4;stroke:#1a45c8;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
   <path
      d="M 29,23 C 29,27 35,27 35,23 C 35,19 29,19 29,23 z M 29,30 L 29,44 L 35,44 L 35,30 L 29,30 z"
      id="rect2553"
